@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Cloud Natve Nagpur!" />
+        <Header title="Welcome to Cloud Native Nagpur!" />
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
